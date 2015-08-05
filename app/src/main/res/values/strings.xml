@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contador_async">ContadorAsyncActivity</string>
+</resources>
